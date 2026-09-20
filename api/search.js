@@ -36,7 +36,7 @@ export default async function handler(req, res) {
   }
 
   /*
-   * For now this endpoint is deliberately provider-neutral.
+   * For  now this endpoint is deliberately provider-neutral.
    * The next step connects it to the actual media provider.
    */
 
